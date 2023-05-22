@@ -39,7 +39,7 @@ Hey, I’m Jalaj. I'm from India and I'm a self-taught developer. I usually work
 
 ## Getting in touch
 
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=jalajdorai@gmail.com&su=Ihr+Anliegen&body=Ihre+Nachricht+an+mich&tf=cm">
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=jalajdorai@gmail.com&su=Hi+Jalaj&body=Reaching+you+regarding&tf=cm">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
