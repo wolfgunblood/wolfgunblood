@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me 
-Hey, I’m Jalaj. I'm from India and I'm a self-taught developer. I usually work with React and TypeScript in Next.js for frontend and node.js ,mongoDb and firebase in backend. I'm a huge enthusiast of finance and trading. Feel free to follow me or reach out to me regarding questions. 
+Hey, I’m Jalaj. I'm from India and I'm a Full Stack developer. I usually work with React and TypeScript in Next.js for frontend and node.js ,mongoDb and firebase in backend. I'm a huge enthusiast of finance and trading. Feel free to follow me or reach out to me regarding questions. 
 
 ## My Tech Stack
 
