@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+## My portfolio
+🖥 <a href="https://wolfgunblood.github.io/portfolio/">My portfolio website</a> <br />
+🤝🏻 <a href="https://www.linkedin.com/in/jalajdorai/">My LinkedIn profile</a> <br />
+![Alt text](image.png) <a href="https://twitter.com/jalaj_dorai">My Twiiter</a>
+
 ## About Me 
-Hey, I’m Jalaj. I'm from India and I'm a Full Stack developer. I usually work with React and TypeScript in Next.js for frontend and node.js ,mongoDb and firebase in backend. I'm a huge enthusiast of finance and trading. Feel free to follow me or reach out to me regarding questions. 
+I'm Jalaj, a Full Stack developer from India. My primary focus is on React and TypeScript, utilizing Next.js for frontend development, and Node.js, MongoDB, and Firebase for backend development. Starting with the fundamentals of HTML, CSS, and JavaScript, I embarked on a self-guided programming journey and continuously expanded my skills beyond the basics.Beyond coding, I'm also an enthusiastic finance and trading enthusiast. I enjoy exploring the world of stocks and options. In my free time, I pursue music production as an engaging hobby. Feel free to follow me or reach out to me regarding any questions or collaborations related to development, finance, or trading.
 
 ## My Tech Stack
 
