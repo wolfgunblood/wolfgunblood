@@ -7,8 +7,7 @@
 ## About Me 
 I'm Jalaj, a Full Stack developer. I build apps.
 
-## Working on
-# Apps
+# Working on
 
 | Apps        | Description    | Link                                                 |
 |----------------|----------------|------------------------------------------------------|
