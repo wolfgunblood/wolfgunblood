@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=wolfgunblood&color=blue)
 ### Hi there 👋
 
 ## My portfolio
