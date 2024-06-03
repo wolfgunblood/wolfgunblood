@@ -1,20 +1,20 @@
 ### Hi there 👋
 
 ## My portfolio
-🖥 <a href="https://jalajdu.notion.site/Hello-f31fbba8bded473fa0ba4ff1c20fd70a?pvs=4">My portfolio website</a> <br />
-🐸 <a href="https://x.com/jalajdu">My Twiiter</a>
+🖥 <a href="https://jalajdu.notion.site/Hello-f31fbba8bded473fa0ba4ff1c20fd70a?pvs=74" target="_blank">My portfolio website</a> <br />
+🐸 <a href="https://x.com/jalajdu" target="_blank">X</a>
 
 ## About Me 
 I'm Jalaj, a Full Stack developer. I build apps.
 
 ## Working on
-# Websites
+# Apps
 
-| Website        | Description    | Link                                                 |
+| Apps        | Description    | Link                                                 |
 |----------------|----------------|------------------------------------------------------|
-| Backend Mentors| A platform to find and become a mentor in backend development | [backendmentors.com](https://backendmentors.com/) |
-| Niche APIs     | A collection of niche APIs for various applications | [nicheapis.com](https://nicheapis.com/) |
-| Anime Kun      | A site for anime enthusiasts | [animekun.me](https://animekun.me/) |
+| Backend Mentors| A platform to find and become a mentor in backend development | <a href="https://backendmentors.com/" target="_blank">backendmentors.com</a> |
+| Niche APIs     | A collection of niche APIs for various applications | <a href="https://nicheapis.com/" target="_blank">nicheapis.com</a>|
+| Anime Kun      | A site for anime enthusiasts | <a href="https://animekun.me/" target="_blank">animekun.me</a>  |
 
 
 
