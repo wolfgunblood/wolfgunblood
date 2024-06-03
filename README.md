@@ -1,12 +1,22 @@
 ### Hi there 👋
 
 ## My portfolio
-🖥 <a href="https://wolfgunblood.github.io/portfolio/">My portfolio website</a> <br />
-🤝🏻 <a href="https://www.linkedin.com/in/jalajdorai/">My LinkedIn profile</a> <br />
-🐸 <a href="https://twitter.com/jalaj_dorai">My Twiiter</a>
+🖥 <a href="https://jalajdu.notion.site/Hello-f31fbba8bded473fa0ba4ff1c20fd70a?pvs=4">My portfolio website</a> <br />
+🐸 <a href="https://x.com/jalajdu">My Twiiter</a>
 
 ## About Me 
-I'm Jalaj, a Full Stack developer. My primary focus is on React and TypeScript, utilizing Next.js for frontend development, and Node.js, MongoDB, and Firebase for backend development. Starting with the fundamentals of HTML, CSS, and JavaScript, I embarked on a self-guided programming journey and continuously expanded my skills beyond the basics.Beyond coding, I'm also an enthusiastic finance and trading enthusiast. I enjoy exploring the world of stocks and options. In my free time, I pursue music production as an engaging hobby. Feel free to follow me or reach out to me regarding any questions or collaborations related to development, finance, or trading.
+I'm Jalaj, a Full Stack developer. I build apps.
+
+## Working on
+# Websites
+
+| Website        | Description    | Link                                                 |
+|----------------|----------------|------------------------------------------------------|
+| Backend Mentors| A platform to find and become a mentor in backend development | [backendmentors.com](https://backendmentors.com/) |
+| Niche APIs     | A collection of niche APIs for various applications | [nicheapis.com](https://nicheapis.com/) |
+| Anime Kun      | A site for anime enthusiasts | [animekun.me](https://animekun.me/) |
+
+
 
 ## My Tech Stack
 
@@ -42,15 +52,6 @@ I'm Jalaj, a Full Stack developer. My primary focus is on React and TypeScript, 
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </a>
 
-## Getting in touch
-
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=jalajdorai@gmail.com&su=Hi+Jalaj&body=Reaching+you+regarding&tf=cm">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in//">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 
 <!--
