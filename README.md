@@ -12,7 +12,7 @@ I'm Jalaj, a Full Stack developer. I build apps.
 
 | Apps        | Description    | Link                                                 |
 |----------------|----------------|------------------------------------------------------|
-| Backend Mentors| A platform to find and become a mentor in backend development | <a href="https://backendmentors.com/" target="_blank">backendmentors.com</a> |
+| Backend Mentors| A platform learn backend development | <a href="https://backendmentors.com/" target="_blank">backendmentors.com</a> |
 | Niche APIs     | A collection of niche APIs for various applications | <a href="https://nicheapis.com/" target="_blank">nicheapis.com</a>|
 | Anime Kun      | A site for anime enthusiasts | <a href="https://animekun.me/" target="_blank">animekun.me</a>  |
 
