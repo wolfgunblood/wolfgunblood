@@ -7,14 +7,15 @@
 
 ## About Me 
 I'm Jalaj, a Full Stack developer. I build apps.
+Transforming bold concepts into standout web applications is my specialty. Outside of my coding marathons, I'm usually engrossed in a readin manga, binging the newest hit on Netflix, or enjoying anime. Let's collaborate and create some remarkable products.
 
-# Working on
+# Currently Working on
 
 | Apps        | Description    | Link                                                 |
 |----------------|----------------|------------------------------------------------------|
 | Backend Mentors| A platform learn backend development | <a href="https://backendmentors.com/" target="_blank">backendmentors.com</a> |
-| Niche APIs     | A collection of niche APIs for various applications | <a href="https://nicheapis.com/" target="_blank">nicheapis.com</a>|
-| Anime Kun      | A site for anime enthusiasts | <a href="https://animekun.me/" target="_blank">animekun.me</a>  |
+| copypal     | AI Email copywriter | <a href="https://copywritingpal.com/" target="_blank">nicheapis.com</a>|
+| Anime Kun      | A site to get anime tweets| <a href="https://animekun.me/" target="_blank">animekun.me</a>  |
 
 
 
