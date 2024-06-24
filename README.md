@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 ## My portfolio
-🖥 <a href="https://jalajdu.notion.site/Hello-f31fbba8bded473fa0ba4ff1c20fd70a?pvs=74" target="_blank">My portfolio website</a> <br />
+🖥 <a href="https://profile-two-jet.vercel.app/" target="_blank">My portfolio website</a> <br />
 🐸 <a href="https://x.com/jalajdu" target="_blank">X</a>
 
 ## About Me 
@@ -14,7 +14,7 @@ Transforming bold concepts into standout web applications is my specialty. Outsi
 | Apps        | Description    | Link                                                 |
 |----------------|----------------|------------------------------------------------------|
 | Backend Mentors| A platform learn backend development | <a href="https://backendmentors.com/" target="_blank">backendmentors.com</a> |
-| copypal     | AI Email copywriter | <a href="https://copywritingpal.com/" target="_blank">nicheapis.com</a>|
+| copypal     | AI Email copywriter | <a href="https://copywritingpal.com/" target="_blank">copywritingpal.com</a>|
 | Anime Kun      | A site to get anime tweets| <a href="https://animekun.me/" target="_blank">animekun.me</a>  |
 
 
