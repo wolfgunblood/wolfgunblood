@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 ## My portfolio
-🖥 <a href="https://profile-two-jet.vercel.app/" target="_blank">My portfolio website</a> <br />
+🖥 <a href="https://me-ecru.vercel.app/" target="_blank">My portfolio website</a> <br />
 🐸 <a href="https://x.com/jalajdu" target="_blank">X</a>
 
 ## About Me 
