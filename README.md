@@ -3,7 +3,7 @@
 
 ## My portfolio
 🖥 <a href="https://me-ecru.vercel.app/" target="_blank">My portfolio website</a> <br />
-🐸 <a href="https://x.com/jalajdu" target="_blank">X</a>
+🐸 <a href="https://x.com/jalajdu" target="_blank">Twitter/X</a>
 
 ## About Me 
 I'm Jalaj, a Full Stack developer. I build apps.
