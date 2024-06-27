@@ -9,7 +9,7 @@
 I'm Jalaj, a Full Stack developer. I build apps.
 Transforming bold concepts into standout web applications is my specialty. Outside of my coding marathons, I'm usually engrossed in a readin manga, binging the newest hit on Netflix, or enjoying anime. Let's collaborate and create some remarkable products.
 
-# Currently Working on
+# Working On
 
 | Apps        | Description    | Link                                                 |
 |----------------|----------------|------------------------------------------------------|
