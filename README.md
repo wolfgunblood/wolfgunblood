@@ -13,7 +13,7 @@ Transforming bold concepts into standout web applications is my specialty. Outsi
 
 | Apps        | Description    | Link                                                 |
 |----------------|----------------|------------------------------------------------------|
-| SQL Mentors| A platform for preparing for sql interviews | <a href="https://sqlmentor.xyz/" target="_blank">backendmentors.com</a> |
+| SQL Mentors | A platform for preparing for SQL interviews | <a href="https://sqlmentor.xyz/" target="_blank">sqlmentor.xyz</a> | 
 | copypal     | AI Email copywriter | <a href="https://copywritingpal.com/" target="_blank">copywritingpal.com</a>|
 | saaskit     | A Next.js Authentication starter template | <a href="https://saaskit.one/" target="_blank">saaskit.one</a>|
 | jobboardhub     | Directory for job boards | <a href="https://jobboardhub.one/" target="_blank">jobboardhub.one</a>|
