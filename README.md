@@ -13,13 +13,14 @@ Transforming bold concepts into standout web applications is my specialty. Outsi
 
 | Apps        | Description    | Link                                                 |
 |----------------|----------------|------------------------------------------------------|
-| SQL Mentors | A platform for preparing for SQL interviews | <a href="https://sqlmentor.xyz/" target="_blank">sqlmentor.xyz</a> | 
-| copypal     | AI Email copywriter | <a href="https://copywritingpal.com/" target="_blank">copywritingpal.com</a>|
 | saaskit     | A Next.js Authentication starter template | <a href="https://saaskit.one/" target="_blank">saaskit.one</a>|
+| sweinterview     | SWE Quiz  | <a href="https://sweinterview.dev/" target="_blank">sweinterview.dev</a>|
 | jobboardhub     | Directory for job boards | <a href="https://jobboardhub.one/" target="_blank">jobboardhub.one</a>|
-| sweinterview     | Resources for swe interview  | <a href="https://sweinterview.dev/" target="_blank">sweinterview.dev</a>|
+| Anime Kun      | Free SDK serving anime quotes| <a href="https://animekun.me/" target="_blank">animekun.me</a>  |
+| Ruee     | Pretty Sleek Currency Converter | <a href="https://ruee.world/" target="_blank">ruee.world</a>|
+| copypal     | AI Email copywriter | <a href="https://copywritingpal.com/" target="_blank">copywritingpal.com</a>|
 | Backend Mentors| A platform learn backend development | <a href="https://backendmentors.com/" target="_blank">backendmentors.com</a> |
-| Anime Kun      | A site to get anime tweets| <a href="https://animekun.me/" target="_blank">animekun.me</a>  |
+| SQL Mentors | A platform for preparing for SQL interviews | <a href="https://sqlmentor.xyz/" target="_blank">sqlmentor.xyz</a> | 
 
 
 
