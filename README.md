@@ -1,28 +1,28 @@
 ![](https://komarev.com/ghpvc/?username=wolfgunblood&color=blue)
+
 ### Hi there 👋
 
 ## My portfolio
+
 🖥 <a href="https://me-ecru.vercel.app/" target="_blank">My portfolio website</a> <br />
 🐸 <a href="https://x.com/jalajdu" target="_blank">Twitter/X</a>
 
-## About Me 
+## About Me
+
 I'm Jalaj, a Full Stack developer. I build apps.
 Transforming bold concepts into standout web applications is my specialty. Outside of my coding marathons, I'm usually engrossed in a readin manga, binging the newest hit on Netflix, or enjoying anime. Let's collaborate and create some remarkable products.
 
 # Working On
 
-| Apps        | Description    | Link                                                 |
-|----------------|----------------|------------------------------------------------------|
-| KindlePPT| AI Presentation Creator | <a href="https://kindleppt.com/" target="_blank">kindleppt.com</a> |
-| Nextwrapper | No code SAAS Builder | Coming Soon |
-| saaskit     | A Next.js Authentication starter template | <a href="https://saaskit.one/" target="_blank">saaskit.one</a>|
-| Ruee     | Pretty Sleek Currency Converter | <a href="https://ruee.world/" target="_blank">ruee.world</a>|
-| Anime Kun      | Free SDK serving anime quotes| <a href="https://animekun.me/" target="_blank">animekun.me</a>  |
-| sweinterview     | SWE Quiz  | <a href="https://sweinterview.dev/" target="_blank">sweinterview.dev</a>|
-| copypal     | AI Email copywriter | <a href="https://copywritingpal.com/" target="_blank">copywritingpal.com</a>|
-
-
-
+| Apps         | Description                               | Link                                                                         |
+| ------------ | ----------------------------------------- | ---------------------------------------------------------------------------- |
+| Nextwrapper  | No code AI SAAS Builder                   | <a href="https://nextwrapper.com/" target="_blank">nextwrapper.com</a>       |
+| KindlePPT    | AI Presentation Creator                   | <a href="https://kindleppt.com/" target="_blank">kindleppt.com</a>           |
+| saaskit      | A Next.js Authentication starter template | <a href="https://saaskit.one/" target="_blank">saaskit.one</a>               |
+| Ruee         | Pretty Sleek Currency Converter           | <a href="https://ruee.world/" target="_blank">ruee.world</a>                 |
+| Anime Kun    | Free SDK serving anime quotes             | <a href="https://animekun.me/" target="_blank">animekun.me</a>               |
+| sweinterview | SWE Quiz                                  | <a href="https://sweinterview.dev/" target="_blank">sweinterview.dev</a>     |
+| copypal      | AI Email copywriter                       | <a href="https://copywritingpal.com/" target="_blank">copywritingpal.com</a> |
 
 ## My Tech Stack
 
@@ -57,8 +57,6 @@ Transforming bold concepts into standout web applications is my specialty. Outsi
 <a href="https://jestjs.io/">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </a>
-
-
 
 <!--
 **wolfgunblood/wolfgunblood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
